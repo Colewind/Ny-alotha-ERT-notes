@@ -34,7 +34,7 @@ Two phase, alternating fight, w/ |cffff00ffintermission|r during |cffff00ffP1|r.
 |cyellowEveryone else|r: |cffff9933KILL|r shards and |cFFFFFF33Assassin adds|r.
 ```
 
-##Maut
+## Maut
 ```
 Alternating two phase fight.
 
