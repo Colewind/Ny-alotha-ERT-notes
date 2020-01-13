@@ -8,17 +8,17 @@ Attribution to /u/Bjank from [https://www.reddit.com/r/CompetitiveWoW/comments/e
 
 Color coding:
 
-PURPLE: Represents phases, intermissions, specific timings, or adds on multi-boss fights.
+![PURPLE](https://placehold.it/15/660066/000000?text=+) Purple: Represents phases, intermissions, specific timings, or adds on multi-boss fights.
 
-BLUE: Ability names.
+![BLUE](https://placehold.it/15/0000ff/000000?text=+) Blue: Ability names.
 
-ORANGE: Represents player actions that must be taken.
+![ORANGE](https://placehold.it/15/cc3300/000000?text=+) Orange: Represents player actions that must be taken.
 
-GREEN: Represents numeric values like time, stacks, distance, or what have you.
+![GREEN](https://placehold.it/15/003300/000000?text=+) Green: Represents numeric values like time, stacks, distance, or what have you.
 
-YELLOW: Represents a person, group, target, or specific location in the encounter space.
+![YELLOW](https://placehold.it/15/ffff00/000000?text=+) Yellow: Represents a person, group, target, or specific location in the encounter space.
 
-RED: Used at my discretion, but basically "DO THIS OR GET OOKED IN THE DOOKER" mechanics.
+![RED](https://placehold.it/15/ff0000/000000?text=+)  Red: Used at my discretion, but basically "DO THIS OR GET OOKED IN THE DOOKER" mechanics.
 
 ## Wrathion
 ```
