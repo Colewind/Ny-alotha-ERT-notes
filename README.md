@@ -1,5 +1,7 @@
 # Ny'alotha ERT
 
+Attribution to /u/Bjank from [https://www.reddit.com/r/CompetitiveWoW/comments/eobqp0/bjanks_angryassignments_ert_notes_for_each_boss/](https://www.reddit.com/r/CompetitiveWoW/comments/eobqp0/bjanks_angryassignments_ert_notes_for_each_boss/)
+
 Color coding:
 
 PURPLE: Represents phases, intermissions, specific timings, or adds on multi-boss fights.
