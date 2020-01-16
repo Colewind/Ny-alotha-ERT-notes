@@ -25,6 +25,7 @@ Color coding:
 
 ## Wrathion
 [Fatboss video 7:15](https://youtu.be/_WHQCtCHc8Y?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
+
 [Ready Check Pull 2:56](https://youtu.be/sTkdXIwVDw0)
 ```
 Two phase, alternating fight, w/ |cffff00ffintermission|r during |cffff00ffP1|r.
@@ -45,6 +46,7 @@ Two phase, alternating fight, w/ |cffff00ffintermission|r during |cffff00ffP1|r.
 
 ## Maut
 [Fatboss video 7:25](https://youtu.be/BHNrMiy84Uo?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
+
 [Ready Check Pull 2:36](https://youtu.be/-z0E_XkNGfQ)
 ```
 Alternating two phase fight.
@@ -130,6 +132,7 @@ Two phase fight. Tek'ris and Za'kir phases.
 
 ## Shad'har (Chadhar)
 [Fatboss video 6:47](https://youtu.be/udYByWASUOA?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
+
 [Ready Check Pull 2:35](https://youtu.be/5Gx-Re8c8RI)
 ```
 Three phase encounter.
