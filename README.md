@@ -1,6 +1,6 @@
 # Ny'alotha ERT
 
-Attribution to Bjank (/u/koleiki) from [https://www.reddit.com/r/CompetitiveWoW/comments/eobqp0/bjanks_angryassignments_ert_notes_for_each_boss/](Reddit)
+Attribution to Bjank (/u/koleiki) from [Reddit](https://www.reddit.com/r/CompetitiveWoW/comments/eobqp0/bjanks_angryassignments_ert_notes_for_each_boss/)
 
 ### Other Sources
 - [Ready Check Pull YouTube guides](https://www.youtube.com/channel/UCB1XBuXDQkOLEIvvYTh0SEg)
