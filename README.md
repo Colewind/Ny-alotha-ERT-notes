@@ -24,6 +24,7 @@ Color coding:
 ![RED](https://placehold.it/15/ff0000/000000?text=+)  Red: Used at my discretion, but basically "DO THIS OR GET OOKED IN THE DOOKER" mechanics.
 
 ## Wrathion
+[Fatboss video 7:15](https://youtu.be/_WHQCtCHc8Y?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 Two phase, alternating fight, w/ |cffff00ffintermission|r during |cffff00ffP1|r.
 
@@ -42,6 +43,7 @@ Two phase, alternating fight, w/ |cffff00ffintermission|r during |cffff00ffP1|r.
 ```
 
 ## Maut
+[Fatboss video 7:25](https://youtu.be/BHNrMiy84Uo?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 Alternating two phase fight.
 
@@ -62,6 +64,7 @@ Alternating two phase fight.
 ```
 
 ## Skitra
+[Fatboss video 5:16](https://youtu.be/M8ANjb0PiKQ?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 Alternating, two phase encounter.
 
@@ -79,6 +82,7 @@ Half raid gets|cFFFF3342 red|r debuff, half raid gets|cFF3380FF blue|r debuff.
 ```
 
 ## Xanesh 
+[Fatboss video 6:58](https://youtu.be/bN5soNaMhX0?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 One phase fight, w/ special mechanic: |cff00ffffVoid Ritual|r
 Deal with |cff00ffffVoid Ritual|r properly or |cFFFF3342DIE|r.
@@ -97,6 +101,7 @@ Deal with |cff00ffffVoid Ritual|r properly or |cFFFF3342DIE|r.
 ```
 
 ## Hivemind
+[Fatboss video 6:26](https://youtu.be/0E5NCWWob_U?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 Two phase fight. Tek'ris and Za'kir phases. 
  Kill bosses at same time.
@@ -122,6 +127,7 @@ Two phase fight. Tek'ris and Za'kir phases.
 ```
 
 ## Shad'har (Chadhar)
+[Fatboss video 6:47](https://youtu.be/udYByWASUOA?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 Three phase encounter.
 
@@ -144,6 +150,7 @@ Three phase encounter.
 ```
 
 ## Drestagath
+[Fatboss video 7:00](https://youtu.be/pvh9kkt4NYA?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 One phase fight. Kill adds, get buff, kill boss, repeat.
 |cFFFF3342Boss can only be damaged after soaking void pools.|r 
@@ -167,6 +174,7 @@ When an |cFFFFFF33add|r dies, |cffff9933PICK UP|r |cFFFFFF33void pool|r and |cff
 ```
 
 ## Vexiona
+[Fatboss video 7:40](https://youtu.be/Q8eG375Am2c?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 Three phase fight. Alternates P1 <-> P2 until P3.
 
@@ -190,6 +198,7 @@ Three phase fight. Alternates P1 <-> P2 until P3.
 ```
 
 ## Ilgynoth
+[Fatboss video 8:11](https://youtu.be/uNAHyZ09QRc?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 Alternating two phase fight.
 Fight ends when all |cFFFFFF33organs and boss|r die.
@@ -208,6 +217,7 @@ Fight ends when all |cFFFFFF33organs and boss|r die.
 ```
 
 ## Ra-den
+[Fatboss video 7:47](https://youtu.be/hMLfhdFgl1o?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 Two phase fight.
 
@@ -234,6 +244,7 @@ Alternate between killing |cFFFFFF33Vita (blue)|r and |cFFFFFF33Void|r orbs.
 ```
 
 ## Carapace of N'zoth
+[Fatboss video 10:18](https://youtu.be/fNtf7BgDjqg?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 Three phase fight. Fight ends when |cFFFFFF33Fury of N'zoth|r dies.
 Don't let your |cff00ff00Sanity Bar|r reach 0!
@@ -262,6 +273,7 @@ After slam, |cffff9933KILL|r |cFFFFFF33Horrific Hemorrhage|r adds on tentacle.
 ```
 
 ## N'zoth
+[Fatboss video 10:01](https://youtu.be/Aa77U5OQ04M?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 ```
 TBD
 ```
