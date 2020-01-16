@@ -5,8 +5,8 @@ Attribution to Bjank (/u/koleiki) from [Reddit](https://www.reddit.com/r/Competi
 ### Other Sources
 - [Ready Check Pull YouTube guides](https://www.youtube.com/channel/UCB1XBuXDQkOLEIvvYTh0SEg)
 - [https://www.tanknotes.com/](https://www.tanknotes.com/) - pretty self explanatory
-- [Ny'alotha Heroic guide with illustrations by /u/Dastey](https://docs.google.com/spreadsheets/d/1QuGyXxCh0XZbAFnmTPUItYk4NM2F_7S8Kb2RDED-Dnk)
-- [Ny'alotha guide by Iliuvatar guild](https://docs.google.com/document/d/15rmGRze7CPNa_wYIXi3WNhKb8uCKOk5YlkdJ4kH2Y9E/edit?usp=sharing)
+- [Ny'alotha Heroic guide with illustrations](https://docs.google.com/spreadsheets/d/1QuGyXxCh0XZbAFnmTPUItYk4NM2F_7S8Kb2RDED-Dnk) by [/u/Dastey](https://www.reddit.com/r/CompetitiveWoW/comments/epjjk7/nyalotha_heroic_guide_with_illustrations/)
+- [Ny'alotha guide by Iliuvatar guild](https://docs.google.com/document/d/15rmGRze7CPNa_wYIXi3WNhKb8uCKOk5YlkdJ4kH2Y9E/edit?usp=sharing) by [/u/Hockeycom14](https://www.reddit.com/r/CompetitiveWoW/comments/epp8zd/iliuvatar_raid_guide/)
 - [Fatboss raid guides](https://www.youtube.com/playlist?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 
 Color coding:
