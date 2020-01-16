@@ -7,6 +7,7 @@ Attribution to Bjank (/u/koleiki) from [https://www.reddit.com/r/CompetitiveWoW/
 - [https://www.tanknotes.com/](https://www.tanknotes.com/) - pretty self explanatory
 - [Ny'alotha Heroic guide with illustrations by /u/Dastey](https://docs.google.com/spreadsheets/d/1QuGyXxCh0XZbAFnmTPUItYk4NM2F_7S8Kb2RDED-Dnk)
 - [Ny'alotha guide by Iliuvatar guild](https://docs.google.com/document/d/15rmGRze7CPNa_wYIXi3WNhKb8uCKOk5YlkdJ4kH2Y9E/edit?usp=sharing)
+- [Fatboss raid guides](https://www.youtube.com/playlist?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
 
 Color coding:
 
