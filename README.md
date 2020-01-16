@@ -1,10 +1,11 @@
 # Ny'alotha ERT
 
-Attribution to /u/Bjank from [https://www.reddit.com/r/CompetitiveWoW/comments/eobqp0/bjanks_angryassignments_ert_notes_for_each_boss/](https://www.reddit.com/r/CompetitiveWoW/comments/eobqp0/bjanks_angryassignments_ert_notes_for_each_boss/)
+Attribution to Bjank (/u/koleiki) from [https://www.reddit.com/r/CompetitiveWoW/comments/eobqp0/bjanks_angryassignments_ert_notes_for_each_boss/](https://www.reddit.com/r/CompetitiveWoW/comments/eobqp0/bjanks_angryassignments_ert_notes_for_each_boss/)
 
 ### Other Sources
 - [Ready Check Pull YouTube guides](https://www.youtube.com/channel/UCB1XBuXDQkOLEIvvYTh0SEg)
 - [https://www.tanknotes.com/](https://www.tanknotes.com/) - pretty self explanatory
+- [Ny'alotha Heroic guide with illustrations by /u/Dastey](https://docs.google.com/spreadsheets/d/1QuGyXxCh0XZbAFnmTPUItYk4NM2F_7S8Kb2RDED-Dnk)
 
 Color coding:
 
@@ -232,7 +233,30 @@ Alternate between killing |cFFFFFF33Vita (blue)|r and |cFFFFFF33Void|r orbs.
 
 ## Carapace of N'zoth
 ```
-TBD
+Three phase fight. Fight ends when |cFFFFFF33Fury of N'zoth|r dies.
+Don't let your |cff00ff00Sanity Bar|r reach 0!
+
+|cffff00ffAll Phases|r :
+ |cffff9933RUN & SPREAD|r |cff00ff0010 yds|r for |cff00ffffMadness Bomb|r.
+ |cFFFFFF33Tanks|r: |cffff9933TAUNT|r after 2 |cff00ffffMandible Slams|r. |cffff9933TANK|r |cFFFFFF33Antigen adds|r.
+
+|cffff00ffPhase 1|r :
+ |cffff9933USE CLOAK|r or |cffff9933RUN|r to |cFFFFFF33Wrathion|r at |cff00ff0020 Sanity|r to recover.
+ |cffff9933KICK & KILL|r |cFFFFFF33Gaze of Madness|r add.
+ |cffff9933DPS|r |cff00ffffAdaptive Membrane|r target.
+ |cffff9933DODGE|r shadow from |cFFFFFF33tentacle on ceiling|r.
+After slam, |cffff9933KILL|r |cFFFFFF33Horrific Hemorrhage|r adds on tentacle.
+
+|cffff00ffPhase 2|r(@50%) :
+ |cffff9933FOLLOW|r |cFFFFFF33Wrathion|r. |cffff9933KILL|r |cFFFFFF33Growths|r.
+ |cffff9933USE CLOAK|r to teleport back, and clear other side.
+ |cffff9933DODGE|r |cff00ffffOccipital Blast|r from |cFFFFFF33Fury of N'zoth|r.
+
+|cffff00ffPhase 3|r(@40%) :
+ |cffff9933SPREAD|r |cff00ff0010 yds|r for |cff00ffffInsanity Bomb|r.
+ |cffff9933KILL|r |cffffff00Antigen adds|r with |cff00ffffAdaptive Membrane|r .
+ |cffff9933PICK UP|r orbs to restore sanity. 
+ |cffff9933DODGE|r |cffffff00tentacles|r.
 ```
 
 ## N'zoth
